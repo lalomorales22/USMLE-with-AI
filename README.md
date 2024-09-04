@@ -1,4 +1,6 @@
 # USMLE Prep Conversational AI
+<img width="1097" alt="Screenshot 2024-09-04 at 4 15 29 PM" src="https://github.com/user-attachments/assets/af9ad5fc-ec71-45c7-b999-9bfcf26cfdc0">
+
 
 ## Description
 The USMLE Prep Conversational AI is a Streamlit-based application designed to assist medical students in preparing for the United States Medical Licensing Examination (USMLE). It leverages AI models from both OpenAI and Ollama to provide intelligent assistance, answer questions, and offer explanations across various medical topics covered in the USMLE.
